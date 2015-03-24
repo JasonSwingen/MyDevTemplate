@@ -1,4 +1,0 @@
-MyDevTemplate
-=============
-
-Blank Website Template
